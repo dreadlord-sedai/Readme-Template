@@ -82,6 +82,6 @@ This project is licensed under the [License Name]. See the [LICENSE](LICENSE) fi
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-- **[Your Name]**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [[your-github-username]](https://github.com/[your-github-username])
+- **Dahami Fabio**: [dahamifabbio@gmail.com](mailto:dahamifabbio@gmail.com)
+- **GitHub**: [dreadlord_sedai](https://github.com/[dreadlord_sedai])
 
